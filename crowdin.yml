@@ -1,4 +1,4 @@
-project_id: "DITT_PROJECT_ID"
+project_id: "883858"
 api_token_env: CROWDIN_PERSONAL_TOKEN
 base_path: "."
 
